@@ -1,0 +1,9 @@
+config.py
+venv/
+secreteKey/
+images/
+gpsCircuit/
+.env
+.vscode/
+__pycache__/
+resources/dlib/
