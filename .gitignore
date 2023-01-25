@@ -6,4 +6,4 @@ gpsCircuit/
 .env
 .vscode/
 __pycache__/
-resources/dlib/
+resources/
