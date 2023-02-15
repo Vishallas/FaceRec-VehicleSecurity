@@ -7,7 +7,7 @@ from firebase_admin import storage
 path = f"{os.getcwd()}\\recog\\secreteKey\\pyrebaserealtimedb-34825-firebase-adminsdk-lalsz-aba7d939e7.json"
 #print(path)
 
-class databs:
+class DatabaseHelper:
     cred_obj = None
     def __init__(self):
         cred_obj = credentials.Certificate(path)

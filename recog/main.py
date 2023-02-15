@@ -4,24 +4,19 @@ import face_recognition
 import numpy as np
 import pickle
 import time
-import threading
 
 #custom libraries
-import mapdata.mdata
-import database.dbase
+from mapdata import mdata
+from database import dbase
 
 import internetConnection
 
 
 if(internetConnection.isConnected()):
-    mapd = mapdata.mdata.location()
-    mapip = mapdata.mdata.iplocation()
+    mapd = mdata.Location()
+    mapip = mdata.IPLocation()
 
-    db = database.dbase.databs()
-
-
-
-
+    db = dbase.DatabaseHelper()
 ct = 5
 factor = 1
 names = list()

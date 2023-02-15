@@ -10,7 +10,6 @@
 !/recog/secreteKey/.gitkeep
 
 en.pickle
-*.pptx
 .env
 test*.py
 threading_test.py

@@ -1,21 +1,20 @@
 import random
 import geocoder
 
-class location: 
+class Location: 
     def lat(self):
-        lat_ = f"{random.randint(-90,90)}.{random.randint(0,10**6)}"
-        return lat_
+        lat = f"{random.randint(-90,90)}.{random.randint(0,10**6)}"
+        return lat
     def long(self):
-        long_ = f"{random.randint(-90,90)}.{random.randint(0,10**6)}"
-        return long_
+        long = f"{random.randint(-90,90)}.{random.randint(0,10**6)}"
+        return long
 
-class iplocation:
+class IPLocation:
     def __init__(self):
-        g = geocoder.ip('me')
-        self._lat,self._long  = g.latlng[0],g.latlng[1]
+        self.g = geocoder.ip('me')
         #self._lat,self._long  = 1.0,1.0
     def lat(self):
-        return self._lat
+        return self.g.latlng[0]
     def long(self):
-        return self._long
+        return self.g.latlng[1]
 
