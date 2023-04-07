@@ -11,7 +11,7 @@ The location coordinates ,image link ,date and time will be updated in firebase 
 ![database](https://user-images.githubusercontent.com/103063354/230607937-e26248b2-63ca-4935-a10f-dfa4ca514feb.jpg)
 
 ---
-The image of the person who tried to unlock the car will be uploaded to the firebase storage.</br> The past unlocks will also be stored
+The image of the person who tried to unlock the car will be uploaded to the firebase storage.</br> The past unlocks will also be stored.</br>
 ![storage](https://user-images.githubusercontent.com/103063354/230607940-f7159dc1-0ef7-44ab-a1ce-ea7e44ccf46d.jpg)
 
 ## Contributors
