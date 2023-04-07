@@ -9,6 +9,8 @@
 /recog/secreteKey/*
 !/recog/secreteKey/.gitkeep
 
+*.jpg
+
 en.pickle
 .env
 test*.py

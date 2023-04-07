@@ -27,6 +27,8 @@ grpcio==1.51.1
 grpcio-status==1.51.1
 httplib2==0.21.0
 idna==3.4
+imutils==0.5.4
+iso8601==1.1.0
 msgpack==1.0.4
 numpy==1.24.2
 opencv-python==4.7.0.68
@@ -38,9 +40,11 @@ pyasn1-modules==0.2.8
 pycparser==2.21
 PyJWT==2.6.0
 pyparsing==3.0.9
+PyYAML==6.0
 ratelim==0.1.6
 requests==2.28.2
 rsa==4.9
+serial==0.0.97
 six==1.16.0
 uritemplate==4.1.1
 urllib3==1.26.14

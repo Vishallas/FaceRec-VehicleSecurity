@@ -17,4 +17,3 @@ class IPLocation:
         return self.g.latlng[0]
     def long(self):
         return self.g.latlng[1]
-

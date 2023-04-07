@@ -6,9 +6,8 @@ def isConnected():
         # reachable
         sock = socket.create_connection(("www.google.com", 80))
         if sock is not None:
-            print('Internet connected......')
             sock.close
         return True
     except OSError:
-        print("Internet not connected....")
+        pass
     return False
