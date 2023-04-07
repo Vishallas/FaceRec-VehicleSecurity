@@ -12,8 +12,8 @@ This project is about using face recognition to let people unlock their parked c
 
 ## Contributors
 
-<a href = "https://github.com/Vishallas/FaceRec-VehicleSecurity/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Vishallas/FaceRec-VehicleSecurity"/>
+<a href="https://github.com/Vishallas/FaceRec-VehicleSecurity/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Vishallas/FaceRec-VehicleSecurity" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).
