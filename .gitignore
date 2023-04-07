@@ -14,4 +14,6 @@ en.pickle
 test*.py
 threading_test.py
 
+*.pptx
+
 **/__pycache__
