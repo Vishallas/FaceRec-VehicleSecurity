@@ -7,13 +7,13 @@ This project is about using face recognition to let people unlock their parked c
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## Project Demo
-### Firestore database screenshot
-The location coordinates ,image link ,date and time will be updated in firebase when the users or anyone tries to unlock the car.
-![database](https://user-images.githubusercontent.com/103063354/230607937-e26248b2-63ca-4935-a10f-dfa4ca514feb.jpg)
+> - ### Firestore database screenshot
+> The location coordinates ,image link ,date and time will be updated in firebase when the users or anyone tries to unlock the car.
+> ![database](https://user-images.githubusercontent.com/103063354/230607937-e26248b2-63ca-4935-a10f-dfa4ca514feb.jpg)
 
-### Firebase storage screenshot
-The image of the person who tried to unlock the car will be uploaded to the firebase storage.</br> The past unlocks will also be stored.</br>
-![storage](https://user-images.githubusercontent.com/103063354/230607940-f7159dc1-0ef7-44ab-a1ce-ea7e44ccf46d.jpg)
+> - ### Firebase storage screenshot
+> The image of the person who tried to unlock the car will be uploaded to the firebase storage.</br> The past unlocks will also be stored.</br>
+> ![storage](https://user-images.githubusercontent.com/103063354/230607940-f7159dc1-0ef7-44ab-a1ce-ea7e44ccf46d.jpg)
 
 ## Contributors
 
