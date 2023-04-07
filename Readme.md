@@ -10,5 +10,3 @@ This project is about using face recognition to let people unlock their parked c
 ![Database](https://github.com/Vishallas/FaceRec-VehicleSecurity/projPic/raw/Windows-main/database.jpg)
 ![Storage](https://github.com/Vishallas/FaceRec-VehicleSecurity/projPic/raw/Windows-main/Storage.jpg)
 ![demo](https://github.com/Vishallas/FaceRec-VehicleSecurity/projPic/raw/Windows-main/trial.jpg)
-
-test
