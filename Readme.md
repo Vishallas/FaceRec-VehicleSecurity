@@ -7,6 +7,6 @@ This project is about using face recognition to let people unlock their parked c
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## Project Demo
-![Database](FaceRec-VehicleSecurity/projPic/database.png)
-![Storage](FaceRec-VehicleSecurity/projPic/Storage.png)
-![demo](FaceRec-VehicleSecurity/projPic/trial.png)
+![Database](projPic/raw/Windows-main/database.png)
+![Storage](projPic/raw/Windows-main/Storage.png)
+![demo](projPic/raw/Windows-main/trial.png)
