@@ -21,4 +21,4 @@ The image of the person who tried to unlock the car will be uploaded to the fire
   <img src="https://contrib.rocks/image?repo=Vishallas/FaceRec-VehicleSecurity" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
